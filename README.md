@@ -137,7 +137,7 @@ Cek di browser pada [IP Address]:8080, apakah sudah muncul aplikasi web nya atau
 - Dapat menjadi sasaran dalam kurangnya keamanan
 
 ## Perbandingan dengan web lain
-[y2mate](https://www.y2mate.com/id740/youtube)
+Contoh website yang dibandingkan adalah dengan website [y2mate](https://www.y2mate.com/id740/youtube)__
 y2mate merupakan salah satu website untuk youtube downloader. Salah satu kekurang dari website y2mate adalah hanya bisa mendownload video dari youtube saja, semetnara MeTube bisa mendownload dari beberapa website yang lain. MeTube juga bisa melakukan download beberapa video secara sekaligus dengan mudah akan tetapi y2mate jika sangat ingin mendownload banyak video akan sedikit lebih ribet. Tidak hanya itu, Video yang telah didownload oleh MeTube akan tersimpan historynya
 # Referensi
 [alexta69/metube](https://github.com/alexta69/metube)
