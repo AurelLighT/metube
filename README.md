@@ -124,6 +124,7 @@ Cek di browser pada [IP Address]:8080, apakah sudah muncul aplikasi web nya atau
 
 ## Kelebihan
 - Bisa keep track apa saja yang sudah di download
+- Bisa mendownload banyak file sekaligus
 - Banyak pilihan format file apa yang diinginkan
 - Tidak hanya video youtube saja, bisa juga dari sumber [website yang lain](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
 
