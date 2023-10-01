@@ -130,9 +130,14 @@ Cek di browser pada [IP Address]:8080, apakah sudah muncul aplikasi web nya atau
 
 ## Kekurangan 
 - Tidak bisa mendownload tipe video yang dienkripsi
+- Membutuhkan penyimpanan dan bandwidth yang cukup besar
+- Pengelolaan dan pemeliharaan server yang cukup rumit 
+- Keterbatasan kecepatan video apabila server tidak dioptimalkan dengan baik sehingga dapat mengakibatkan pengalaman pengguna yang buruk
+- Terdapat kemungkinan dalam melanggar hak cipta dan legalitas
+- Dapat menjadi sasaran dalam kurangnya keamanan
 
 ## Perbandingan dengan web lain
 [y2mate](https://www.y2mate.com/id740/youtube)
-
+y2mate merupakan salah satu website untuk youtube downloader. Salah satu kekurang dari website y2mate adalah hanya bisa mendownload video dari youtube saja, semetnara MeTube bisa mendownload dari beberapa website yang lain. MeTube juga bisa melakukan download beberapa video secara sekaligus dengan mudah akan tetapi y2mate jika sangat ingin mendownload banyak video akan sedikit lebih ribet. Tidak hanya itu, Video yang telah didownload oleh MeTube akan tersimpan historynya
 # Referensi
 [alexta69/metube](https://github.com/alexta69/metube)
