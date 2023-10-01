@@ -114,9 +114,10 @@ Cek di browser pada [IP Address]:8080, apakah sudah muncul aplikasi web nya atau
 
 
 # Cara pemakaian
-- Copy link video youtube yang ingin digunakan
-- Tunggu hingga video di download oleh server
-- Download video
+1. Copy link video youtube yang ingin digunakan
+2. Tunggu hingga video di download oleh server
+3. Download video
+
 ![screenshot1](https://github.com/alexta69/metube/raw/master/screenshot.gif)
 
 # Pembahasan
