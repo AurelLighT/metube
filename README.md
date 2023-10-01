@@ -127,7 +127,9 @@ Cek di browser pada [IP Address]:8080, apakah sudah muncul aplikasi web nya atau
 - Bisa mendownload banyak file sekaligus
 - Banyak pilihan format file apa yang diinginkan
 - Tidak hanya video youtube saja, bisa juga dari sumber [website yang lain](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
-
+- Tampilan yang responsif
+- Ada Dark Mode
+- Bisa masukkan link playlist sehingga bisa mendownload banyak video sekaligus
 ## Kekurangan 
 - Tidak bisa mendownload tipe video yang dienkripsi
 - Membutuhkan penyimpanan dan bandwidth yang cukup besar
@@ -135,6 +137,7 @@ Cek di browser pada [IP Address]:8080, apakah sudah muncul aplikasi web nya atau
 - Keterbatasan kecepatan video apabila server tidak dioptimalkan dengan baik sehingga dapat mengakibatkan pengalaman pengguna yang buruk
 - Terdapat kemungkinan dalam melanggar hak cipta dan legalitas
 - Dapat menjadi sasaran dalam kurangnya keamanan
+- Dapat melihat video apa saja yang di download oleh user lain juga
 
 ## Perbandingan dengan web lain
 Contoh website yang dibandingkan adalah dengan website [y2mate](https://www.y2mate.com/id740/youtube) <br />
