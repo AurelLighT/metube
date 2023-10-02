@@ -131,7 +131,7 @@ Cek di browser pada [IP Address]:8080, apakah sudah muncul aplikasi web nya atau
 - Ada Dark Mode
 - Bisa masukkan link playlist sehingga bisa mendownload banyak video sekaligus
 ## Kekurangan 
-- Tidak bisa mendownload tipe video yang dienkripsi
+- Tidak bisa mendownload tipe video yang telah dienkripsi
 - Membutuhkan penyimpanan dan bandwidth yang cukup besar
 - Pengelolaan dan pemeliharaan server yang cukup rumit 
 - Keterbatasan kecepatan video apabila server tidak dioptimalkan dengan baik sehingga dapat mengakibatkan pengalaman pengguna yang buruk
