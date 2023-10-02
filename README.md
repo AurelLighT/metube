@@ -140,12 +140,10 @@ Web MeTube dapat diakses pada [IP Address]:8080.
 - Mode gelap yang tersedia untuk mengurangi kelelahan mata.
 - Dapat mengimport link playlist, yang memungkinkan untuk mendownload banyak video sekaligus.
 ## Kekurangan 
-<<<<<<< HEAD
 - Tidak bisa mendownload tipe video yang dienkripsi
 - Memerlukan penyimpanan dan bandwidth yang cukup besar
 - Kecepatan download video dapat terpengaruh jika server tidak dioptimalkan dengan baik, yang dapat mengganggu pengalaman pengguna.
 - Terdapat risiko melanggar hak cipta dan masalah legalitas.
-=======
 - Tidak bisa mendownload tipe video yang telah dienkripsi
 - Membutuhkan penyimpanan dan bandwidth yang cukup besar
 - Pengelolaan dan pemeliharaan server yang cukup rumit 
@@ -153,7 +151,6 @@ Web MeTube dapat diakses pada [IP Address]:8080.
 - Terdapat kemungkinan dalam melanggar hak cipta dan legalitas
 - Dapat menjadi sasaran dalam kurangnya keamanan
 - Dapat melihat video apa saja yang di download oleh user lain juga
->>>>>>> f4cf9530ec19d5d9e1fa0022c93259198b205851
 
 ## Perbandingan dengan web lain
 Website yang digunakan untuk perbandingan adalah [y2mate](https://www.y2mate.com/). Y2mate adalah salah satu platform yang digunakan untuk mengunduh video dari YouTube. Namun, terdapat perbedaan yang cukup signifikan antara Y2mate dan MeTube.
